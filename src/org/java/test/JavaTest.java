@@ -5,6 +5,8 @@ public class JavaTest {
 
 		int a = 100;
 		int b = 150;
+		int c = b - a;
+		System.out.println(a + b + c);
 		String d = "java";
 		System.out.println(d);
 		System.out.println(a + b);
