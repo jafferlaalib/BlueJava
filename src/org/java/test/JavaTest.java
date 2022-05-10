@@ -5,6 +5,7 @@ public class JavaTest {
 
 		int a = 100;
 		int b = 150;
-		System.out.println(a + b);
+		int c = b - a;
+		System.out.println(a + b + c);
 	}
 }
